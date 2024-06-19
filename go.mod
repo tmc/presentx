@@ -1,4 +1,4 @@
-module golang/tools/cmd/present
+module github.com/tmc/presentx
 
 go 1.22.4
 
